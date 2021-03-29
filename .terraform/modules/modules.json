@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"module_test","Source":"app.terraform.io/NO-LIMIT/test/aws","Version":"1.0.13","Dir":".terraform/modules/module_test"}]}
+{"Modules":[{"Key":"myModule","Source":"app.terraform.io/NO-LIMIT/test/aws","Version":"1.0.0","Dir":".terraform/modules/myModule"},{"Key":"","Source":"","Dir":"."}]}
