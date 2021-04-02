@@ -1,2 +1,2 @@
 
-$blueprint.asdasdasdasdasdsad
+$blueprint.sd
