@@ -1,1 +1,1 @@
-$blueprint.readMe
+$blueprint.asdasdasdasdasdsad
