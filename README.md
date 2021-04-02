@@ -1,2 +1,2 @@
 
-$blueprint.sd
+$blueprint.ss
