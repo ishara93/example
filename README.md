@@ -1,2 +1,2 @@
 
-sample sadasdasd
+sample asdasd
